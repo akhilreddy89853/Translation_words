@@ -1,2 +1,7 @@
 Computer word,Telugu meaning,Englih meaning,English (literal meaning),Telugu(literal meaning)
 compiler,ఇది మానవ అవగాహన భాషను యంత్రం అవగాహన భాషకు మారుస్తుంది,Which converts the human understanding language to meachine understanding language,,
+Abstraction , సంగ్రహణం వినియోగదారు నుండి అమలు వివరాలు దాచడం ఒక ప్రక్రియ,
+Abstraction is a process of hiding the implementation details from the user,,
+crashes, సాఫ్ట్వేర్ అప్లికేషన్ పనితీరు నిలిపివేసింది మరియు కార్యక్రమం నుండి నిష్క్రమించింది,The functioning of software application got stoped and exit from program,,
+static variable, స్టాటిక్ వేరియబుల్ కోసం మెమొరీ ప్రోగ్రామ్ కంపైలేషన్ సమయంలో కేటాయించబడుతుంది., The memory for static variable is allocated at the time of program compilation.,,
+dynamic variable, ప్రోగ్రామ్ ఎక్సిక్యూషన్ సమయంలో డైనమిక్ వేరియబుల్ కోసం మెమరీ కేటాయించబడుతుంది. , The memory for dynamic variable is allocated at the time of program execution.
